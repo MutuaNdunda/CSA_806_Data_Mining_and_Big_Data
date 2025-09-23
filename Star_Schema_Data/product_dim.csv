@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Brand,Price
+2001,Laptop A,Electronics,Brand X,500.0
+2002,Smartphone B,Electronics,Brand Y,300.0
+2003,Chair C,Furniture,Brand Z,100.0
+2004,Sugar A,Grocery,Brand M,1107.23
+2005,Rice B,Grocery,Brand Z,1042.07
+2006,Smartphone B,Electronics,Brand Y,1591.23
+2007,Tablet E,Electronics,Brand M,769.38
+2008,Chair A,Furniture,Brand Z,826.41
+2009,Jacket D,Clothing,Brand M,193.81
+2010,Maize Flour D,Grocery,Brand K,1376.21
+2011,Rice E,Grocery,Brand M,404.83
+2012,Bed E,Furniture,Brand X,1671.21
+2013,Sofa B,Furniture,Brand Y,679.19
+2014,Sofa E,Furniture,Brand Z,1699.57
+2015,Rice E,Grocery,Brand Z,294.08
+2016,Maize Flour E,Grocery,Brand Y,1204.03
+2017,Table E,Furniture,Brand M,708.36
+2018,Laptop A,Electronics,Brand X,1899.67
+2019,Rice E,Grocery,Brand K,1255.31
+2020,Camera E,Electronics,Brand Z,1301.72
+2021,Tea B,Grocery,Brand K,630.0
+2022,Laptop B,Electronics,Brand K,860.46
+2023,Dress C,Clothing,Brand M,330.15
+2024,Sugar D,Grocery,Brand Y,1533.3
+2025,Tablet B,Electronics,Brand K,288.92
+2026,Dress B,Clothing,Brand X,148.68
+2027,Jacket B,Clothing,Brand Y,1636.28
+2028,Rice B,Grocery,Brand K,1992.14
+2029,Jacket C,Clothing,Brand K,95.19
+2030,Jacket B,Clothing,Brand Y,1187.52
+2031,Laptop C,Electronics,Brand K,1215.16
+2032,Shoes E,Clothing,Brand X,1701.99
+2033,Dress C,Clothing,Brand Z,1539.52
+2034,Maize Flour D,Grocery,Brand X,1162.05
+2035,Sofa E,Furniture,Brand Z,193.39
+2036,Shoes E,Clothing,Brand M,281.68
+2037,Camera C,Electronics,Brand Z,1137.77
+2038,Rice B,Grocery,Brand M,1042.79
+2039,Laptop A,Electronics,Brand Y,1441.5
+2040,Jacket B,Clothing,Brand M,1791.61
+2041,Sofa E,Furniture,Brand Z,366.88
+2042,Sugar E,Grocery,Brand M,1088.06
+2043,Tea A,Grocery,Brand Z,695.92
+2044,Camera E,Electronics,Brand Z,1603.67
+2045,Camera C,Electronics,Brand M,1176.39
+2046,Camera B,Electronics,Brand M,1276.6
+2047,Dress B,Clothing,Brand X,1166.51
+2048,Smartphone A,Electronics,Brand K,661.7
+2049,Bed B,Furniture,Brand K,1028.55
+2050,Shirt B,Clothing,Brand M,454.32

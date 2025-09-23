@@ -1,0 +1,21 @@
+StoreID,StoreName,TownID,ManagerID
+101,Store 1,5,1
+102,Store 2,2,2
+103,Store 3,6,3
+104,Store 4,5,25
+105,Store 5,5,23
+106,Store 6,4,23
+107,Store 7,12,16
+108,Store 8,6,16
+109,Store 9,6,18
+110,Store 10,15,30
+111,Store 11,13,24
+112,Store 12,5,10
+113,Store 13,2,19
+114,Store 14,11,18
+115,Store 15,7,29
+116,Store 16,7,27
+117,Store 17,6,25
+118,Store 18,13,5
+119,Store 19,5,2
+120,Store 20,5,23

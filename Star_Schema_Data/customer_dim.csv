@@ -1,0 +1,701 @@
+CustomerID,Name,AgeGroup,Gender,Town,County
+1001,John Kamau,25–34,Male,Naivasha,Nakuru
+1002,Jane Auma,35–44,Female,Gilgil,Nakuru
+1003,Alice Makena,45–54,Female,Chogoria,Tharaka Nithi
+1004,Travis Williams,65+,Male,Nairobi,Nairobi
+1005,Brian Vazquez,65+,Female,Eldoret,Uasin Gishu
+1006,Matthew Chavez,25–34,Male,Kericho,Kericho
+1007,Michael Malone,18–24,Male,Thika,Kiambu
+1008,Nathan Gay,45–54,Male,Nairobi,Nairobi
+1009,Anita Walker,18–24,Male,Eldoret,Uasin Gishu
+1010,Dakota Crawford,55–64,Male,Machakos,Machakos
+1011,Matthew Brown,25–34,Female,Eldoret,Uasin Gishu
+1012,Linda Reyes,45–54,Female,Naivasha,Nakuru
+1013,Joshua Ortiz,18–24,Male,Kericho,Kericho
+1014,Danielle Baker,45–54,Female,Nakuru,Nakuru
+1015,Jacqueline Rogers,25–34,Male,Naivasha,Nakuru
+1016,Denise Harvey,35–44,Male,Kisumu,Kisumu
+1017,Kenneth Graham,45–54,Male,Meru,Meru
+1018,Ann Choi,35–44,Female,Naivasha,Nakuru
+1019,Cynthia Pena,18–24,Female,Machakos,Machakos
+1020,Adam Simon,18–24,Female,Kisumu,Kisumu
+1021,Jacqueline Houston,55–64,Female,Gilgil,Nakuru
+1022,Stephanie Watkins,65+,Female,Thika,Kiambu
+1023,Jerry Nguyen,25–34,Male,Nairobi,Nairobi
+1024,Adrian Harris,65+,Male,Naivasha,Nakuru
+1025,Joshua Boyer,35–44,Male,Gilgil,Nakuru
+1026,Melinda Nelson,25–34,Male,Nyeri,Nyeri
+1027,Donna Tran,35–44,Female,Kitale,Trans Nzoia
+1028,Diana Lopez,35–44,Male,Meru,Meru
+1029,Robert Swanson,35–44,Male,Kitale,Trans Nzoia
+1030,Stephanie Matthews,35–44,Male,Thika,Kiambu
+1031,Justin Bell,65+,Male,Machakos,Machakos
+1032,Craig Meyer,65+,Male,Mombasa,Mombasa
+1033,Benjamin Rios,45–54,Female,Nakuru,Nakuru
+1034,Jacob Spence,65+,Male,Kitale,Trans Nzoia
+1035,Nicole Jarvis,35–44,Male,Eldoret,Uasin Gishu
+1036,Caitlin Morgan,18–24,Female,Nyeri,Nyeri
+1037,Cassandra Pineda,35–44,Male,Eldoret,Uasin Gishu
+1038,Brooke Larson,55–64,Female,Eldoret,Uasin Gishu
+1039,Mariah Woodward,65+,Female,Nyeri,Nyeri
+1040,Alicia King,65+,Female,Mombasa,Mombasa
+1041,Matthew Lewis,35–44,Male,Eldoret,Uasin Gishu
+1042,Kathleen Wall,65+,Female,Kericho,Kericho
+1043,Louis Owens,55–64,Female,Chogoria,Tharaka Nithi
+1044,Monica King,55–64,Female,Meru,Meru
+1045,Rodney Stuart,25–34,Male,Machakos,Machakos
+1046,Amanda Price,45–54,Male,Naivasha,Nakuru
+1047,Rebecca Taylor,18–24,Male,Mombasa,Mombasa
+1048,Frances Williams,65+,Male,Naivasha,Nakuru
+1049,Johnny Porter,65+,Female,Thika,Kiambu
+1050,Richard Taylor,18–24,Female,Nyeri,Nyeri
+1051,Kimberly Ferguson,55–64,Female,Machakos,Machakos
+1052,Evan Martinez,35–44,Male,Kitale,Trans Nzoia
+1053,Matthew Morse,65+,Male,Kitale,Trans Nzoia
+1054,Barry Schmidt,55–64,Female,Naivasha,Nakuru
+1055,Keith Hayes,65+,Female,Kisumu,Kisumu
+1056,Melissa Bowers,35–44,Female,Mombasa,Mombasa
+1057,Christopher Brennan,45–54,Male,Kericho,Kericho
+1058,Cindy Hale,65+,Female,Machakos,Machakos
+1059,Zachary Crawford,25–34,Male,Gilgil,Nakuru
+1060,Tracy Russell,65+,Female,Gilgil,Nakuru
+1061,Caroline Cole,65+,Male,Mombasa,Mombasa
+1062,Steven Ford,35–44,Male,Machakos,Machakos
+1063,Debbie Brown,55–64,Male,Thika,Kiambu
+1064,Teresa Briggs,35–44,Female,Nairobi,Nairobi
+1065,Nancy Wright,18–24,Female,Chogoria,Tharaka Nithi
+1066,Stephanie Bentley,35–44,Male,Nairobi,Nairobi
+1067,Alex Massey,25–34,Male,Kisumu,Kisumu
+1068,Kristin Miller,65+,Female,Gilgil,Nakuru
+1069,Mary Thomas,18–24,Male,Mombasa,Mombasa
+1070,Linda Dunn,65+,Female,Machakos,Machakos
+1071,Walter Flowers,25–34,Female,Machakos,Machakos
+1072,Kelly Brooks,55–64,Female,Eldoret,Uasin Gishu
+1073,Samantha Bell,55–64,Male,Kericho,Kericho
+1074,Holly Blankenship,35–44,Female,Kitale,Trans Nzoia
+1075,Victoria Tate,65+,Female,Embu,Embu
+1076,Kenneth Padilla,55–64,Female,Kisumu,Kisumu
+1077,Richard Anderson,25–34,Male,Kisumu,Kisumu
+1078,Bryan Burke,35–44,Male,Thika,Kiambu
+1079,Gene Potter,55–64,Male,Thika,Kiambu
+1080,Sheila Johnston,25–34,Male,Kisumu,Kisumu
+1081,William Maldonado,65+,Male,Eldoret,Uasin Gishu
+1082,Amber Taylor,18–24,Male,Gilgil,Nakuru
+1083,Jeffrey Pena,35–44,Male,Machakos,Machakos
+1084,Jeffrey Wright,25–34,Female,Kitale,Trans Nzoia
+1085,Nicholas Williams,45–54,Male,Machakos,Machakos
+1086,Kristopher Navarro,25–34,Female,Eldoret,Uasin Gishu
+1087,Rebecca Anderson,45–54,Female,Eldoret,Uasin Gishu
+1088,Jimmy Daniel,18–24,Male,Kitale,Trans Nzoia
+1089,Brandi Brown,45–54,Female,Nyeri,Nyeri
+1090,Terri Livingston,45–54,Female,Gilgil,Nakuru
+1091,Lisa Carroll,65+,Male,Kitale,Trans Nzoia
+1092,Brandi Hawkins,65+,Male,Nairobi,Nairobi
+1093,Randall Johnson,45–54,Female,Naivasha,Nakuru
+1094,Peter Berger,18–24,Male,Eldoret,Uasin Gishu
+1095,Karen Woodard,25–34,Female,Mombasa,Mombasa
+1096,Rebecca Mitchell,45–54,Male,Nakuru,Nakuru
+1097,Joshua Roach,45–54,Male,Gilgil,Nakuru
+1098,Joshua Gray,18–24,Female,Naivasha,Nakuru
+1099,Chad Oliver,55–64,Male,Nairobi,Nairobi
+1100,Brandon Diaz,65+,Male,Kisumu,Kisumu
+1101,Ronald Novak,25–34,Male,Nyeri,Nyeri
+1102,Timothy Harris,45–54,Female,Eldoret,Uasin Gishu
+1103,Holly Davis,45–54,Male,Mombasa,Mombasa
+1104,Shannon Mcdowell,45–54,Male,Nyeri,Nyeri
+1105,John Pham,35–44,Female,Nakuru,Nakuru
+1106,Vanessa Avery,45–54,Female,Mombasa,Mombasa
+1107,Samantha Baker,25–34,Female,Eldoret,Uasin Gishu
+1108,Matthew Huynh,18–24,Male,Kericho,Kericho
+1109,Aaron Williamson,35–44,Male,Nairobi,Nairobi
+1110,Tristan Lamb,55–64,Female,Machakos,Machakos
+1111,Paul Johnson,55–64,Male,Nairobi,Nairobi
+1112,John Anderson,55–64,Male,Gilgil,Nakuru
+1113,Scott Blake,25–34,Male,Thika,Kiambu
+1114,Connie Mcpherson,18–24,Male,Nyeri,Nyeri
+1115,Micheal Davis,18–24,Male,Thika,Kiambu
+1116,Jessica Burke,55–64,Male,Thika,Kiambu
+1117,David Welch,18–24,Female,Kitale,Trans Nzoia
+1118,Alan Phelps,55–64,Female,Chogoria,Tharaka Nithi
+1119,Heidi Murray,35–44,Male,Kitale,Trans Nzoia
+1120,Tony King,65+,Female,Eldoret,Uasin Gishu
+1121,David Glass,35–44,Female,Mombasa,Mombasa
+1122,Lisa Allen,65+,Female,Embu,Embu
+1123,Stephanie Thomas,35–44,Male,Nairobi,Nairobi
+1124,Robert Fisher,45–54,Male,Kisumu,Kisumu
+1125,Jason Smith,55–64,Male,Machakos,Machakos
+1126,Matthew Young,35–44,Male,Chogoria,Tharaka Nithi
+1127,Scott Anderson,35–44,Male,Chogoria,Tharaka Nithi
+1128,Sarah Moore,25–34,Female,Nakuru,Nakuru
+1129,Erik Ortega,25–34,Female,Gilgil,Nakuru
+1130,Christopher Stephens,55–64,Female,Thika,Kiambu
+1131,Mark Harmon,65+,Male,Kitale,Trans Nzoia
+1132,Julian Hardy,55–64,Female,Chogoria,Tharaka Nithi
+1133,Thomas Arnold,65+,Male,Chogoria,Tharaka Nithi
+1134,Andrew Hill,25–34,Female,Kisumu,Kisumu
+1135,Michelle Ware,18–24,Male,Nakuru,Nakuru
+1136,Jonathan White,35–44,Male,Kericho,Kericho
+1137,William Fields,35–44,Male,Kitale,Trans Nzoia
+1138,Kenneth Lee,65+,Female,Machakos,Machakos
+1139,Kathy Johnson,45–54,Female,Chogoria,Tharaka Nithi
+1140,Tyler Long,18–24,Male,Kitale,Trans Nzoia
+1141,Monica Cruz,45–54,Female,Nairobi,Nairobi
+1142,Rebecca Adams,18–24,Female,Naivasha,Nakuru
+1143,Stanley Hoffman,25–34,Female,Mombasa,Mombasa
+1144,Roy Summers,65+,Female,Machakos,Machakos
+1145,Chris Perry,65+,Female,Machakos,Machakos
+1146,Emily Moore,18–24,Male,Kisumu,Kisumu
+1147,Gail Vazquez,65+,Male,Machakos,Machakos
+1148,Robert Powers,18–24,Female,Thika,Kiambu
+1149,Emma Pena,55–64,Male,Nyeri,Nyeri
+1150,Victoria Odonnell,25–34,Male,Nakuru,Nakuru
+1151,David Vaughn,35–44,Male,Chogoria,Tharaka Nithi
+1152,William Murray,35–44,Male,Kitale,Trans Nzoia
+1153,Samuel Baker,25–34,Male,Meru,Meru
+1154,Christina Kim,55–64,Female,Thika,Kiambu
+1155,Teresa Clark,65+,Male,Chogoria,Tharaka Nithi
+1156,Justin Potts,25–34,Male,Naivasha,Nakuru
+1157,Gregory Olson,25–34,Female,Nairobi,Nairobi
+1158,Jeffrey Huber,25–34,Female,Naivasha,Nakuru
+1159,Kristina Alvarado,45–54,Male,Nakuru,Nakuru
+1160,Marvin Irwin,25–34,Male,Nyeri,Nyeri
+1161,Sherri Morrison,18–24,Female,Eldoret,Uasin Gishu
+1162,Sydney Bruce,25–34,Female,Meru,Meru
+1163,Christian Day,35–44,Male,Eldoret,Uasin Gishu
+1164,Valerie Hamilton,18–24,Male,Nyeri,Nyeri
+1165,Sean Gonzalez,35–44,Female,Gilgil,Nakuru
+1166,Joseph Wood,18–24,Female,Meru,Meru
+1167,Meagan Smith,65+,Female,Kitale,Trans Nzoia
+1168,Amanda Edwards,55–64,Female,Nairobi,Nairobi
+1169,Jonathan Rose,18–24,Female,Mombasa,Mombasa
+1170,Deborah Wright,55–64,Female,Nairobi,Nairobi
+1171,Joseph Martinez,18–24,Female,Meru,Meru
+1172,Brandon Hamilton,65+,Female,Nyeri,Nyeri
+1173,Christina Buckley,55–64,Male,Nyeri,Nyeri
+1174,Michael Rasmussen,55–64,Male,Nakuru,Nakuru
+1175,Elizabeth Walker,18–24,Female,Nairobi,Nairobi
+1176,Rhonda Ayala,55–64,Male,Meru,Meru
+1177,Jeffrey Fitzpatrick,45–54,Male,Kitale,Trans Nzoia
+1178,Brittany Schwartz,35–44,Female,Kitale,Trans Nzoia
+1179,Mary Camacho,18–24,Female,Machakos,Machakos
+1180,Mary Williams,35–44,Female,Meru,Meru
+1181,James Sanders,45–54,Female,Machakos,Machakos
+1182,Christopher Jones,25–34,Male,Nyeri,Nyeri
+1183,Kyle Reyes,65+,Female,Kitale,Trans Nzoia
+1184,Dominique Donovan,65+,Male,Thika,Kiambu
+1185,Sara Cunningham,55–64,Female,Nyeri,Nyeri
+1186,Nicole Vance,55–64,Male,Nakuru,Nakuru
+1187,Ian Washington,35–44,Male,Nyeri,Nyeri
+1188,Brenda Hampton,55–64,Female,Embu,Embu
+1189,Isabel Whitaker,45–54,Female,Kitale,Trans Nzoia
+1190,Tonya Moore,25–34,Female,Naivasha,Nakuru
+1191,Christopher Hughes,65+,Male,Kitale,Trans Nzoia
+1192,Sean Middleton,18–24,Female,Machakos,Machakos
+1193,Joseph Caldwell,65+,Female,Kisumu,Kisumu
+1194,Jamie Baker,25–34,Female,Eldoret,Uasin Gishu
+1195,Drew Erickson,25–34,Male,Nairobi,Nairobi
+1196,Jon Mccarthy,18–24,Male,Embu,Embu
+1197,Sarah York,55–64,Male,Embu,Embu
+1198,Amanda Williams,45–54,Male,Kericho,Kericho
+1199,Victoria Parker,65+,Female,Embu,Embu
+1200,Alexander Mueller,45–54,Male,Mombasa,Mombasa
+1201,Kevin Stevens,65+,Male,Chogoria,Tharaka Nithi
+1202,Benjamin Glover,18–24,Female,Eldoret,Uasin Gishu
+1203,Dennis Maddox,25–34,Female,Nairobi,Nairobi
+1204,Donna Noble,55–64,Male,Chogoria,Tharaka Nithi
+1205,Christina Maldonado,18–24,Female,Mombasa,Mombasa
+1206,Janet Obrien,45–54,Female,Naivasha,Nakuru
+1207,Maria Berry,45–54,Female,Gilgil,Nakuru
+1208,David Montoya,55–64,Female,Chogoria,Tharaka Nithi
+1209,Amber Hobbs,25–34,Female,Embu,Embu
+1210,Bailey Johnson,35–44,Male,Gilgil,Nakuru
+1211,Kimberly Lyons,65+,Female,Naivasha,Nakuru
+1212,Angel Johnson,55–64,Female,Kitale,Trans Nzoia
+1213,Drew Gutierrez,25–34,Female,Embu,Embu
+1214,Taylor Reyes,18–24,Female,Eldoret,Uasin Gishu
+1215,Steven Ballard,35–44,Female,Meru,Meru
+1216,Mary Rogers,55–64,Male,Mombasa,Mombasa
+1217,James Green,25–34,Male,Nyeri,Nyeri
+1218,Wendy Simpson,65+,Male,Kericho,Kericho
+1219,Katie Gilbert,25–34,Male,Nyeri,Nyeri
+1220,Brent Larsen,45–54,Female,Machakos,Machakos
+1221,Courtney Williams,45–54,Female,Nairobi,Nairobi
+1222,Jessica Bush,25–34,Female,Nyeri,Nyeri
+1223,John Guerra,55–64,Male,Gilgil,Nakuru
+1224,Joshua Wilson,55–64,Female,Embu,Embu
+1225,Heidi Gomez,18–24,Female,Nakuru,Nakuru
+1226,Valerie Dalton,45–54,Female,Machakos,Machakos
+1227,Michael Hale,65+,Male,Embu,Embu
+1228,Tyler Garcia,25–34,Female,Nyeri,Nyeri
+1229,Amber Cabrera,45–54,Male,Nyeri,Nyeri
+1230,Hannah Butler,35–44,Female,Kericho,Kericho
+1231,Cody Diaz,25–34,Female,Chogoria,Tharaka Nithi
+1232,Allen Stewart,25–34,Male,Chogoria,Tharaka Nithi
+1233,Zachary Rodriguez,45–54,Male,Kisumu,Kisumu
+1234,Peter Wilson,65+,Female,Mombasa,Mombasa
+1235,John Hanna,45–54,Male,Nairobi,Nairobi
+1236,Sherri Hubbard,35–44,Female,Meru,Meru
+1237,Steven Brown,25–34,Female,Meru,Meru
+1238,Haley Moore,35–44,Female,Nakuru,Nakuru
+1239,Michael Becker,45–54,Female,Gilgil,Nakuru
+1240,Steven Weiss,18–24,Female,Nairobi,Nairobi
+1241,Eric Ortiz,65+,Male,Meru,Meru
+1242,Jonathan Wilson,25–34,Male,Naivasha,Nakuru
+1243,Krystal Fitzgerald,65+,Male,Naivasha,Nakuru
+1244,Richard Lewis,18–24,Male,Eldoret,Uasin Gishu
+1245,Heather Anderson,18–24,Male,Eldoret,Uasin Gishu
+1246,Joseph Good,25–34,Female,Kitale,Trans Nzoia
+1247,Joel Harrison,18–24,Male,Embu,Embu
+1248,Rodney Freeman,65+,Female,Naivasha,Nakuru
+1249,Patricia Whitaker,35–44,Male,Thika,Kiambu
+1250,Louis Chambers,55–64,Male,Naivasha,Nakuru
+1251,Michael Sanders,25–34,Female,Kisumu,Kisumu
+1252,Anthony Obrien,55–64,Male,Chogoria,Tharaka Nithi
+1253,Mary Reilly,35–44,Female,Nyeri,Nyeri
+1254,Juan Gilbert,65+,Male,Kisumu,Kisumu
+1255,Valerie Robertson,55–64,Male,Kisumu,Kisumu
+1256,Maria Martinez,65+,Female,Gilgil,Nakuru
+1257,Justin Guerrero,65+,Male,Naivasha,Nakuru
+1258,Lisa Evans,55–64,Male,Meru,Meru
+1259,Taylor Terry,55–64,Female,Kitale,Trans Nzoia
+1260,Emily Ryan,35–44,Male,Machakos,Machakos
+1261,Taylor Carter,65+,Female,Nairobi,Nairobi
+1262,Vicki Lee,45–54,Female,Kisumu,Kisumu
+1263,Kelly Rosario,45–54,Female,Kitale,Trans Nzoia
+1264,Alan Lewis,45–54,Male,Nyeri,Nyeri
+1265,David Tran,25–34,Female,Thika,Kiambu
+1266,Jacob Stevens,55–64,Female,Embu,Embu
+1267,Brian Ryan,45–54,Female,Meru,Meru
+1268,Crystal Garza,25–34,Male,Nakuru,Nakuru
+1269,Lisa Zamora,45–54,Male,Naivasha,Nakuru
+1270,Christopher Simmons,45–54,Female,Meru,Meru
+1271,Jessica Harris,18–24,Female,Gilgil,Nakuru
+1272,Marissa Wallace,35–44,Male,Embu,Embu
+1273,Andrew Wilkins,25–34,Female,Naivasha,Nakuru
+1274,Kimberly Wagner,35–44,Female,Nakuru,Nakuru
+1275,Elizabeth Travis,55–64,Female,Machakos,Machakos
+1276,Daniel Fuentes,18–24,Male,Kisumu,Kisumu
+1277,Jeffrey Harris,25–34,Female,Embu,Embu
+1278,Margaret Carter,55–64,Male,Kericho,Kericho
+1279,Tammy Smith,45–54,Female,Embu,Embu
+1280,Robin Butler,18–24,Male,Nakuru,Nakuru
+1281,Eric Bruce,25–34,Female,Kericho,Kericho
+1282,Mary Jackson,25–34,Female,Kitale,Trans Nzoia
+1283,Annette Harrison,55–64,Female,Embu,Embu
+1284,Laurie Hahn,55–64,Female,Nyeri,Nyeri
+1285,Curtis Jenkins,65+,Female,Meru,Meru
+1286,Kathryn Williams,65+,Female,Nakuru,Nakuru
+1287,Robert Johnson,35–44,Female,Eldoret,Uasin Gishu
+1288,Kathy Boone,18–24,Male,Meru,Meru
+1289,Gina Baker,18–24,Male,Eldoret,Uasin Gishu
+1290,Beth Marks,25–34,Female,Nakuru,Nakuru
+1291,Ashley Carpenter,65+,Female,Kisumu,Kisumu
+1292,Erica Taylor,25–34,Female,Eldoret,Uasin Gishu
+1293,Tiffany Mullen,35–44,Male,Nakuru,Nakuru
+1294,Chris Carpenter,18–24,Male,Nakuru,Nakuru
+1295,Diane Peck,18–24,Male,Machakos,Machakos
+1296,Mary Ramirez,35–44,Male,Kitale,Trans Nzoia
+1297,Douglas Simmons,45–54,Male,Gilgil,Nakuru
+1298,Kenneth Werner,18–24,Female,Embu,Embu
+1299,Chad Morris,45–54,Female,Meru,Meru
+1300,Samantha Gibson,25–34,Male,Nakuru,Nakuru
+1301,Tony Thornton,45–54,Male,Gilgil,Nakuru
+1302,Travis Harrison,18–24,Female,Embu,Embu
+1303,Christopher Miller,18–24,Male,Mombasa,Mombasa
+1304,Christopher Hicks,25–34,Female,Kisumu,Kisumu
+1305,Gina May,25–34,Male,Machakos,Machakos
+1306,Lindsey Rodriguez,45–54,Male,Naivasha,Nakuru
+1307,Dustin Lawson,55–64,Female,Embu,Embu
+1308,Luis Morrison,45–54,Female,Gilgil,Nakuru
+1309,Michelle Hudson,55–64,Female,Nakuru,Nakuru
+1310,Samantha Garcia,55–64,Male,Thika,Kiambu
+1311,Kristine Bailey,65+,Male,Naivasha,Nakuru
+1312,John Banks,25–34,Male,Nakuru,Nakuru
+1313,Peggy Ayers,65+,Male,Mombasa,Mombasa
+1314,Christina Shaw,25–34,Male,Machakos,Machakos
+1315,Robin Marsh,18–24,Male,Nairobi,Nairobi
+1316,Wyatt Jackson,45–54,Female,Kericho,Kericho
+1317,Katherine Donovan,55–64,Female,Nakuru,Nakuru
+1318,Andrew Harris,18–24,Male,Nakuru,Nakuru
+1319,Beth Dunn,65+,Female,Kericho,Kericho
+1320,Raymond Adams,45–54,Male,Kitale,Trans Nzoia
+1321,Lori Nunez,25–34,Female,Naivasha,Nakuru
+1322,Natalie Harrington,65+,Male,Nyeri,Nyeri
+1323,Christopher Scott,18–24,Male,Kitale,Trans Nzoia
+1324,Jonathan Kline,25–34,Female,Gilgil,Nakuru
+1325,Stephanie Morgan,25–34,Male,Nairobi,Nairobi
+1326,Jennifer Hall,25–34,Female,Thika,Kiambu
+1327,Christine Johnson,65+,Female,Embu,Embu
+1328,Vanessa Bowers,18–24,Female,Kericho,Kericho
+1329,Jonathan Moore,35–44,Female,Nakuru,Nakuru
+1330,Melissa Gray,55–64,Female,Embu,Embu
+1331,John Lowe,18–24,Male,Chogoria,Tharaka Nithi
+1332,Jeremy Obrien,45–54,Female,Thika,Kiambu
+1333,Amber Wade,35–44,Male,Kisumu,Kisumu
+1334,Denise Shaw,25–34,Male,Naivasha,Nakuru
+1335,Krista Collier,65+,Female,Thika,Kiambu
+1336,John Galloway,18–24,Male,Embu,Embu
+1337,Shannon Johnson,55–64,Female,Chogoria,Tharaka Nithi
+1338,Brian Rodriguez,35–44,Male,Thika,Kiambu
+1339,Michael Gonzalez,45–54,Female,Kisumu,Kisumu
+1340,Andrew Day,45–54,Female,Nyeri,Nyeri
+1341,Abigail Hernandez,35–44,Female,Kitale,Trans Nzoia
+1342,Ryan Jones,18–24,Male,Meru,Meru
+1343,David Johnston,45–54,Female,Nakuru,Nakuru
+1344,Morgan Neal,65+,Female,Gilgil,Nakuru
+1345,Richard Moon,55–64,Male,Embu,Embu
+1346,Sandra Dyer,18–24,Female,Nakuru,Nakuru
+1347,Christian Garcia,35–44,Male,Naivasha,Nakuru
+1348,Margaret Pugh,45–54,Male,Kitale,Trans Nzoia
+1349,Theresa Collins,55–64,Female,Nyeri,Nyeri
+1350,Edward Higgins,18–24,Male,Machakos,Machakos
+1351,Krista Collins,35–44,Female,Kitale,Trans Nzoia
+1352,Eric Pearson,45–54,Male,Eldoret,Uasin Gishu
+1353,Kristen Fisher,35–44,Male,Chogoria,Tharaka Nithi
+1354,Steven Hester,35–44,Female,Chogoria,Tharaka Nithi
+1355,Michelle Brown,65+,Female,Kisumu,Kisumu
+1356,Sandra Acosta,18–24,Male,Kericho,Kericho
+1357,Erin Wallace,25–34,Female,Machakos,Machakos
+1358,Joseph Whitney,18–24,Female,Kisumu,Kisumu
+1359,Natasha Sullivan,25–34,Male,Embu,Embu
+1360,Dwayne Schwartz,18–24,Male,Embu,Embu
+1361,Peter Ware,65+,Female,Machakos,Machakos
+1362,Drew Rice,65+,Female,Nyeri,Nyeri
+1363,Emily Smith,45–54,Female,Eldoret,Uasin Gishu
+1364,Jay Hubbard,45–54,Male,Nyeri,Nyeri
+1365,Sarah Simpson,25–34,Male,Gilgil,Nakuru
+1366,Thomas Boyd,18–24,Female,Naivasha,Nakuru
+1367,Thomas Burch,45–54,Female,Chogoria,Tharaka Nithi
+1368,Erin Simmons,55–64,Female,Gilgil,Nakuru
+1369,Amanda Smith,18–24,Female,Kericho,Kericho
+1370,Angela Roberson,35–44,Female,Gilgil,Nakuru
+1371,Jenna Sanchez,25–34,Female,Machakos,Machakos
+1372,Martha Silva,45–54,Female,Meru,Meru
+1373,Andrew Simmons,55–64,Female,Embu,Embu
+1374,Ronald Kelley,35–44,Male,Kericho,Kericho
+1375,Alyssa Kline,25–34,Female,Eldoret,Uasin Gishu
+1376,Sharon Elliott,45–54,Male,Meru,Meru
+1377,Sherri Mcdonald,65+,Female,Kericho,Kericho
+1378,Donald Hart,45–54,Female,Kitale,Trans Nzoia
+1379,Thomas Barnes,65+,Male,Embu,Embu
+1380,Ana Mitchell,18–24,Male,Machakos,Machakos
+1381,Kyle Rivera,55–64,Female,Gilgil,Nakuru
+1382,Dennis Hunt,18–24,Female,Kisumu,Kisumu
+1383,Leslie Cohen,55–64,Female,Nairobi,Nairobi
+1384,Cheryl Chavez,65+,Male,Nyeri,Nyeri
+1385,Lydia Fox,65+,Male,Kisumu,Kisumu
+1386,Stephanie Tate,45–54,Female,Meru,Meru
+1387,Erin Thompson,55–64,Female,Kitale,Trans Nzoia
+1388,Jessica Jimenez,18–24,Female,Gilgil,Nakuru
+1389,Ryan Hoffman,65+,Female,Meru,Meru
+1390,Ashley Vance,65+,Female,Gilgil,Nakuru
+1391,Christopher Gay,55–64,Male,Thika,Kiambu
+1392,Brendan Stark,18–24,Male,Kitale,Trans Nzoia
+1393,Teresa Allison,65+,Female,Eldoret,Uasin Gishu
+1394,Michelle Hill,65+,Male,Nyeri,Nyeri
+1395,Thomas Murphy,18–24,Male,Embu,Embu
+1396,Stacey Velazquez,25–34,Female,Chogoria,Tharaka Nithi
+1397,Ryan Craig,18–24,Male,Meru,Meru
+1398,Joseph Thompson,18–24,Female,Meru,Meru
+1399,Alejandro Cross,35–44,Female,Mombasa,Mombasa
+1400,Christian Chavez,25–34,Female,Thika,Kiambu
+1401,Darrell Smith,65+,Male,Mombasa,Mombasa
+1402,Carrie Nguyen,25–34,Male,Thika,Kiambu
+1403,Heather Andrews,45–54,Male,Embu,Embu
+1404,Jennifer Floyd,55–64,Male,Eldoret,Uasin Gishu
+1405,Alex Hunt,45–54,Female,Embu,Embu
+1406,Douglas Gray,35–44,Male,Chogoria,Tharaka Nithi
+1407,Latoya Arnold,45–54,Female,Kitale,Trans Nzoia
+1408,Cheryl Salinas,55–64,Male,Kisumu,Kisumu
+1409,Anthony Barajas,45–54,Female,Thika,Kiambu
+1410,Erica Roy,35–44,Female,Kericho,Kericho
+1411,Matthew York,35–44,Female,Gilgil,Nakuru
+1412,Amy Rodriguez,35–44,Male,Nyeri,Nyeri
+1413,Rhonda Butler,45–54,Male,Eldoret,Uasin Gishu
+1414,Dennis Wyatt,45–54,Female,Thika,Kiambu
+1415,Holly Reynolds,35–44,Female,Nairobi,Nairobi
+1416,John Smith,65+,Female,Nakuru,Nakuru
+1417,Timothy White,18–24,Male,Chogoria,Tharaka Nithi
+1418,William Henson,55–64,Female,Gilgil,Nakuru
+1419,Alexis Cline,35–44,Male,Thika,Kiambu
+1420,David Hall,35–44,Male,Kitale,Trans Nzoia
+1421,Erik Fitzgerald,25–34,Female,Kitale,Trans Nzoia
+1422,Whitney Clayton,65+,Male,Kitale,Trans Nzoia
+1423,Andrew Robles,18–24,Male,Nakuru,Nakuru
+1424,Steven Bullock,45–54,Male,Thika,Kiambu
+1425,Alexander Melton,35–44,Male,Kisumu,Kisumu
+1426,Veronica Hanson,35–44,Female,Kericho,Kericho
+1427,Reginald Allen,45–54,Male,Eldoret,Uasin Gishu
+1428,Erik Freeman,25–34,Female,Machakos,Machakos
+1429,Kimberly Perez,55–64,Female,Gilgil,Nakuru
+1430,Autumn Owen,25–34,Female,Chogoria,Tharaka Nithi
+1431,Jessica Day,45–54,Female,Kericho,Kericho
+1432,Sheila Berry,35–44,Male,Embu,Embu
+1433,Carol Carter,18–24,Male,Naivasha,Nakuru
+1434,Johnny Shannon,25–34,Female,Gilgil,Nakuru
+1435,Sara Lawson,55–64,Female,Kisumu,Kisumu
+1436,David Martinez,45–54,Male,Nakuru,Nakuru
+1437,Michael Nguyen,55–64,Male,Embu,Embu
+1438,Peter Martin,35–44,Female,Thika,Kiambu
+1439,John Mckenzie,45–54,Female,Kisumu,Kisumu
+1440,Carol Sanchez,65+,Male,Embu,Embu
+1441,Jorge Miller,18–24,Female,Chogoria,Tharaka Nithi
+1442,David Phillips,55–64,Male,Kitale,Trans Nzoia
+1443,Ann Dorsey,18–24,Female,Chogoria,Tharaka Nithi
+1444,Noah French,65+,Female,Kitale,Trans Nzoia
+1445,Rachel Robinson,45–54,Male,Mombasa,Mombasa
+1446,Jasmine Johnson,18–24,Male,Nakuru,Nakuru
+1447,Tony Williams,45–54,Male,Kisumu,Kisumu
+1448,Ashley Harris,25–34,Male,Nyeri,Nyeri
+1449,Bobby Chambers,45–54,Female,Kitale,Trans Nzoia
+1450,Tracy Prince,65+,Female,Thika,Kiambu
+1451,Brandon Smith,65+,Male,Chogoria,Tharaka Nithi
+1452,Kristin Suarez,45–54,Male,Gilgil,Nakuru
+1453,Erica Herring,45–54,Female,Nakuru,Nakuru
+1454,Marvin Alexander,18–24,Female,Eldoret,Uasin Gishu
+1455,Mark Johnson,45–54,Female,Eldoret,Uasin Gishu
+1456,Daniel Kent,35–44,Male,Kitale,Trans Nzoia
+1457,Stephanie Price,35–44,Female,Nairobi,Nairobi
+1458,Ralph Sanchez,45–54,Female,Eldoret,Uasin Gishu
+1459,Anthony Hansen,18–24,Female,Kisumu,Kisumu
+1460,Sally Collier,65+,Male,Kitale,Trans Nzoia
+1461,Linda Park,65+,Male,Nairobi,Nairobi
+1462,Kerry Williamson,35–44,Male,Mombasa,Mombasa
+1463,Kyle Graham,55–64,Male,Kisumu,Kisumu
+1464,Anna Lambert,55–64,Male,Thika,Kiambu
+1465,Keith Roth,25–34,Male,Meru,Meru
+1466,Bianca Jackson,25–34,Male,Nakuru,Nakuru
+1467,Tiffany Dixon,25–34,Male,Machakos,Machakos
+1468,Emily Serrano,35–44,Male,Kisumu,Kisumu
+1469,John Donovan,65+,Male,Mombasa,Mombasa
+1470,Jessica Singh,18–24,Female,Naivasha,Nakuru
+1471,Leah Bell,25–34,Female,Nairobi,Nairobi
+1472,Caleb Adams,25–34,Female,Nairobi,Nairobi
+1473,Courtney Craig,25–34,Female,Machakos,Machakos
+1474,David Gray,18–24,Male,Embu,Embu
+1475,Alexandra Ray,45–54,Female,Machakos,Machakos
+1476,Linda Schmidt,55–64,Male,Embu,Embu
+1477,Tina Weber,55–64,Male,Thika,Kiambu
+1478,Mark Conner,18–24,Female,Embu,Embu
+1479,James Thompson,65+,Male,Nairobi,Nairobi
+1480,Phyllis Ward,45–54,Female,Nyeri,Nyeri
+1481,Tammy Mcguire,65+,Male,Embu,Embu
+1482,Jesse Edwards,65+,Female,Kisumu,Kisumu
+1483,Kelsey Lopez,18–24,Female,Thika,Kiambu
+1484,Lawrence Ortiz,25–34,Male,Mombasa,Mombasa
+1485,Jessica Compton,35–44,Female,Nyeri,Nyeri
+1486,Glenda Mclaughlin,55–64,Female,Embu,Embu
+1487,Courtney Henry,55–64,Female,Kisumu,Kisumu
+1488,Joshua Moore,65+,Male,Gilgil,Nakuru
+1489,Randy Yoder,65+,Male,Nyeri,Nyeri
+1490,Lisa Johnson,45–54,Male,Nyeri,Nyeri
+1491,Susan Fisher,35–44,Female,Nyeri,Nyeri
+1492,Andrea Hill,45–54,Male,Meru,Meru
+1493,Margaret Soto,45–54,Female,Kitale,Trans Nzoia
+1494,Megan Gutierrez,35–44,Female,Mombasa,Mombasa
+1495,Sara Howard,65+,Female,Kisumu,Kisumu
+1496,Anthony Ward,18–24,Male,Kisumu,Kisumu
+1497,Brandon Thompson,45–54,Male,Kericho,Kericho
+1498,Joseph Hebert,65+,Female,Naivasha,Nakuru
+1499,Erica Roberts,25–34,Male,Thika,Kiambu
+1500,Laura Weaver,55–64,Female,Kitale,Trans Nzoia
+1501,Victor Moreno,18–24,Female,Meru,Meru
+1502,Anthony Ortiz,65+,Female,Gilgil,Nakuru
+1503,Laura Hernandez,65+,Male,Nakuru,Nakuru
+1504,Brian Taylor,55–64,Female,Meru,Meru
+1505,Daniel Butler,18–24,Male,Mombasa,Mombasa
+1506,Ariel Duran,65+,Female,Eldoret,Uasin Gishu
+1507,Juan Thomas,18–24,Female,Gilgil,Nakuru
+1508,Lisa Reed,55–64,Female,Kisumu,Kisumu
+1509,Nicole Fields,35–44,Male,Naivasha,Nakuru
+1510,Daniel Johnson,45–54,Male,Thika,Kiambu
+1511,Larry Duncan,65+,Female,Nairobi,Nairobi
+1512,William Knight,25–34,Female,Kericho,Kericho
+1513,Kevin Garcia,35–44,Female,Meru,Meru
+1514,Diana Boyer,18–24,Male,Gilgil,Nakuru
+1515,Emily James,25–34,Female,Kisumu,Kisumu
+1516,Francis Martin,25–34,Male,Kisumu,Kisumu
+1517,Gary Smith,65+,Male,Nyeri,Nyeri
+1518,Charles Gross,45–54,Female,Meru,Meru
+1519,John Hansen,25–34,Female,Nakuru,Nakuru
+1520,Mark Gill,65+,Female,Naivasha,Nakuru
+1521,Jordan Wang,55–64,Male,Chogoria,Tharaka Nithi
+1522,Anita Miller,18–24,Male,Mombasa,Mombasa
+1523,Lacey King,55–64,Male,Kitale,Trans Nzoia
+1524,Gwendolyn Klein,18–24,Female,Embu,Embu
+1525,Diane Diaz,65+,Female,Embu,Embu
+1526,Kevin Wilson,55–64,Female,Nyeri,Nyeri
+1527,Emily Hernandez,35–44,Male,Naivasha,Nakuru
+1528,Melissa Smith,55–64,Male,Meru,Meru
+1529,Glenda Morse,45–54,Male,Nakuru,Nakuru
+1530,Matthew Hardy,65+,Female,Machakos,Machakos
+1531,Patrick Cooper,65+,Female,Nairobi,Nairobi
+1532,Laura Lopez,25–34,Female,Thika,Kiambu
+1533,Cody Howard,18–24,Male,Eldoret,Uasin Gishu
+1534,Tyler Miller,35–44,Male,Naivasha,Nakuru
+1535,Shannon Cruz,25–34,Female,Nakuru,Nakuru
+1536,Brandi Williams,35–44,Male,Nairobi,Nairobi
+1537,Kenneth Kennedy,45–54,Female,Mombasa,Mombasa
+1538,Sean Burke,25–34,Female,Machakos,Machakos
+1539,Kevin Savage,65+,Male,Machakos,Machakos
+1540,Veronica Watts,55–64,Female,Kisumu,Kisumu
+1541,Mark Sparks,45–54,Male,Nyeri,Nyeri
+1542,Thomas Mccall,18–24,Female,Chogoria,Tharaka Nithi
+1543,Tonya Reynolds,18–24,Female,Thika,Kiambu
+1544,Joseph Robinson,45–54,Female,Kericho,Kericho
+1545,Breanna Taylor,65+,Female,Nakuru,Nakuru
+1546,Benjamin Randall,18–24,Female,Nairobi,Nairobi
+1547,Susan Galvan,35–44,Male,Naivasha,Nakuru
+1548,Michael Willis,55–64,Female,Gilgil,Nakuru
+1549,Seth Ward,65+,Female,Kisumu,Kisumu
+1550,Amanda Oconnor,45–54,Male,Eldoret,Uasin Gishu
+1551,Stephanie Russo,45–54,Female,Machakos,Machakos
+1552,Kyle Jackson,18–24,Female,Gilgil,Nakuru
+1553,Elizabeth Williams,35–44,Female,Eldoret,Uasin Gishu
+1554,Olivia Taylor,35–44,Male,Kisumu,Kisumu
+1555,Phyllis Morgan,55–64,Male,Machakos,Machakos
+1556,Frank Johnson,55–64,Male,Chogoria,Tharaka Nithi
+1557,Melanie Brown,35–44,Female,Kericho,Kericho
+1558,Michelle Flores,65+,Male,Eldoret,Uasin Gishu
+1559,Holly Garcia,18–24,Male,Nakuru,Nakuru
+1560,Larry West,25–34,Male,Thika,Kiambu
+1561,Nicole Davis,25–34,Male,Mombasa,Mombasa
+1562,Jonathan Coffey,65+,Female,Embu,Embu
+1563,Angela Horton,55–64,Female,Kitale,Trans Nzoia
+1564,Ann Smith,55–64,Female,Gilgil,Nakuru
+1565,Benjamin Gill,65+,Female,Mombasa,Mombasa
+1566,Jamie Combs,45–54,Male,Embu,Embu
+1567,Jennifer Armstrong,45–54,Female,Naivasha,Nakuru
+1568,Ann West,35–44,Male,Meru,Meru
+1569,Kendra Nixon,55–64,Male,Nakuru,Nakuru
+1570,Travis Allen,45–54,Female,Nairobi,Nairobi
+1571,Sandra Meyer,18–24,Female,Gilgil,Nakuru
+1572,John Moore,35–44,Male,Kitale,Trans Nzoia
+1573,Heather Nguyen,18–24,Female,Embu,Embu
+1574,Kevin Shannon,55–64,Male,Embu,Embu
+1575,Jerry Green,55–64,Male,Meru,Meru
+1576,Timothy Stewart,55–64,Female,Machakos,Machakos
+1577,Kelly Grimes,25–34,Male,Embu,Embu
+1578,Angela Trujillo,18–24,Female,Kericho,Kericho
+1579,Vernon Stevens,18–24,Male,Nairobi,Nairobi
+1580,Angela Guerrero,25–34,Female,Embu,Embu
+1581,Jennifer Wilson,55–64,Male,Meru,Meru
+1582,Cheryl Taylor,35–44,Female,Nyeri,Nyeri
+1583,Sandra Haley,45–54,Female,Kitale,Trans Nzoia
+1584,Amanda Ramirez,55–64,Male,Naivasha,Nakuru
+1585,Carlos Wallace,65+,Female,Kisumu,Kisumu
+1586,Rhonda Barr,35–44,Male,Machakos,Machakos
+1587,John Rosales,65+,Female,Nakuru,Nakuru
+1588,Paul Clark,35–44,Male,Meru,Meru
+1589,Christina Johnson,18–24,Male,Chogoria,Tharaka Nithi
+1590,Tracey Reeves,35–44,Female,Kitale,Trans Nzoia
+1591,Mary Mcgee,65+,Female,Mombasa,Mombasa
+1592,Leah Wiggins,55–64,Male,Nakuru,Nakuru
+1593,Laurie Cortez,55–64,Female,Kitale,Trans Nzoia
+1594,Brandi Miller,35–44,Male,Kitale,Trans Nzoia
+1595,Jessica Trujillo,65+,Male,Kitale,Trans Nzoia
+1596,Lee Hayden,65+,Female,Machakos,Machakos
+1597,Amanda Oneill,35–44,Male,Meru,Meru
+1598,Casey Choi,35–44,Male,Eldoret,Uasin Gishu
+1599,Molly Williamson,35–44,Female,Eldoret,Uasin Gishu
+1600,Colton Ferguson,25–34,Male,Mombasa,Mombasa
+1601,Kirk Washington,18–24,Female,Gilgil,Nakuru
+1602,Bobby Brewer,18–24,Male,Kitale,Trans Nzoia
+1603,Jenna Ortiz,35–44,Male,Thika,Kiambu
+1604,Sarah Mitchell,45–54,Male,Mombasa,Mombasa
+1605,Allison Larson,25–34,Male,Kericho,Kericho
+1606,David Armstrong,45–54,Male,Nyeri,Nyeri
+1607,Ryan Jones,35–44,Male,Embu,Embu
+1608,Tiffany Armstrong,55–64,Female,Naivasha,Nakuru
+1609,Casey Henson,65+,Female,Eldoret,Uasin Gishu
+1610,James Bell,55–64,Male,Nakuru,Nakuru
+1611,Brian Livingston,45–54,Male,Meru,Meru
+1612,Tony Chapman,65+,Female,Embu,Embu
+1613,Leslie Howell,35–44,Female,Machakos,Machakos
+1614,David Hayes,55–64,Female,Mombasa,Mombasa
+1615,William May,25–34,Male,Gilgil,Nakuru
+1616,Karen Rivera,35–44,Male,Kitale,Trans Nzoia
+1617,Leslie Phillips,45–54,Female,Machakos,Machakos
+1618,Melissa Baird,18–24,Male,Nakuru,Nakuru
+1619,Brandi Brown,18–24,Male,Nakuru,Nakuru
+1620,Albert Marsh,45–54,Male,Gilgil,Nakuru
+1621,James Perez,45–54,Male,Chogoria,Tharaka Nithi
+1622,Joshua Flores,25–34,Female,Chogoria,Tharaka Nithi
+1623,Micheal Romero,35–44,Male,Nyeri,Nyeri
+1624,Kari Maldonado,18–24,Female,Machakos,Machakos
+1625,George Hill,35–44,Male,Nyeri,Nyeri
+1626,Brian Stephens,18–24,Female,Eldoret,Uasin Gishu
+1627,Jessica Sanders,18–24,Female,Chogoria,Tharaka Nithi
+1628,Cheryl Torres,18–24,Female,Naivasha,Nakuru
+1629,Nicole Williams,25–34,Male,Nairobi,Nairobi
+1630,Ryan Gonzalez,35–44,Female,Kericho,Kericho
+1631,Ashley White,25–34,Female,Embu,Embu
+1632,Kathleen Bradley,55–64,Male,Chogoria,Tharaka Nithi
+1633,Mike Weaver,18–24,Male,Nakuru,Nakuru
+1634,Stephen Holloway,25–34,Male,Machakos,Machakos
+1635,Kelly Estrada,65+,Female,Kisumu,Kisumu
+1636,Allison Warner,35–44,Male,Nakuru,Nakuru
+1637,Richard Fuentes,18–24,Male,Eldoret,Uasin Gishu
+1638,Kathleen Giles,45–54,Female,Kisumu,Kisumu
+1639,Alicia Brown,18–24,Female,Thika,Kiambu
+1640,Brenda Kline,55–64,Male,Kitale,Trans Nzoia
+1641,Samantha Boyd,55–64,Male,Kericho,Kericho
+1642,Charles Dyer,25–34,Female,Nyeri,Nyeri
+1643,Donna Martinez,18–24,Female,Eldoret,Uasin Gishu
+1644,Shannon Webster,55–64,Female,Mombasa,Mombasa
+1645,Jennifer Cox,65+,Male,Machakos,Machakos
+1646,Timothy Freeman,35–44,Male,Machakos,Machakos
+1647,Taylor Castro,55–64,Male,Nyeri,Nyeri
+1648,Beth Shaffer,45–54,Male,Kitale,Trans Nzoia
+1649,Jennifer Mason,45–54,Female,Nakuru,Nakuru
+1650,John Shelton,65+,Male,Meru,Meru
+1651,Jennifer Melton,18–24,Female,Eldoret,Uasin Gishu
+1652,Susan Lopez,65+,Male,Naivasha,Nakuru
+1653,Philip Ellison,55–64,Female,Mombasa,Mombasa
+1654,Brian Foley,18–24,Female,Machakos,Machakos
+1655,Susan Sheppard,35–44,Male,Gilgil,Nakuru
+1656,Eileen Walker,65+,Female,Kericho,Kericho
+1657,James Whitehead,45–54,Male,Naivasha,Nakuru
+1658,Lucas Kennedy,25–34,Male,Kericho,Kericho
+1659,Veronica Ferguson,45–54,Male,Nakuru,Nakuru
+1660,Anthony Santiago,25–34,Male,Naivasha,Nakuru
+1661,Donald Jones,25–34,Male,Meru,Meru
+1662,Carol Marquez,35–44,Female,Gilgil,Nakuru
+1663,Dustin Ray,55–64,Female,Nakuru,Nakuru
+1664,Jeremiah Chen,18–24,Male,Nakuru,Nakuru
+1665,Allison Pierce,35–44,Male,Gilgil,Nakuru
+1666,Kelly Singh,65+,Female,Nakuru,Nakuru
+1667,Melissa Garcia,18–24,Female,Nyeri,Nyeri
+1668,Alexander Jackson,45–54,Female,Chogoria,Tharaka Nithi
+1669,Brian James,45–54,Female,Mombasa,Mombasa
+1670,Catherine Pham,45–54,Female,Meru,Meru
+1671,Bryan Taylor,55–64,Female,Naivasha,Nakuru
+1672,Austin Dennis,18–24,Female,Kisumu,Kisumu
+1673,Andrea Williams,45–54,Male,Machakos,Machakos
+1674,James Harris,35–44,Female,Kisumu,Kisumu
+1675,Scott Klein,18–24,Female,Kitale,Trans Nzoia
+1676,John Cross,35–44,Female,Embu,Embu
+1677,Kara Nixon,55–64,Female,Mombasa,Mombasa
+1678,Madeline Davis,65+,Female,Meru,Meru
+1679,Carmen Griffin,45–54,Male,Kericho,Kericho
+1680,Michael Duncan,35–44,Female,Nakuru,Nakuru
+1681,Jonathan Johnson,65+,Male,Kisumu,Kisumu
+1682,Deborah Espinoza,65+,Female,Meru,Meru
+1683,Rebecca Freeman,55–64,Male,Nairobi,Nairobi
+1684,Destiny Stevenson,25–34,Female,Nairobi,Nairobi
+1685,Christopher Atkins,25–34,Male,Eldoret,Uasin Gishu
+1686,Jennifer Crawford,65+,Female,Meru,Meru
+1687,Alison Martinez,45–54,Male,Thika,Kiambu
+1688,Renee Allen,25–34,Female,Meru,Meru
+1689,Michelle Colon,35–44,Female,Naivasha,Nakuru
+1690,Theresa Ramos,18–24,Male,Machakos,Machakos
+1691,Victoria White,35–44,Female,Meru,Meru
+1692,Christopher Berg,65+,Female,Eldoret,Uasin Gishu
+1693,Michele Jenkins,18–24,Male,Kericho,Kericho
+1694,Nicholas Bennett,25–34,Female,Machakos,Machakos
+1695,John Miller,45–54,Male,Nakuru,Nakuru
+1696,Frederick Rosales,35–44,Female,Eldoret,Uasin Gishu
+1697,Lisa Campos,55–64,Female,Kericho,Kericho
+1698,Isaac Stephens,45–54,Male,Kisumu,Kisumu
+1699,Robin Garcia,25–34,Male,Embu,Embu
+1700,Donald Martin,25–34,Female,Kisumu,Kisumu
